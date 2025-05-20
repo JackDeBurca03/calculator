@@ -1,7 +1,7 @@
 # This is a comment for my first branch
 
 num1 = float(input("First number: "))
-op = input("Operation (+, -, *, /): ")
+op = input("Operation (+, -, *, /, **): ")
 num2 = float(input("Second number: "))
 
 if op == "+":
